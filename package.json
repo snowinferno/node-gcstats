@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "nan": "^2.13.2",
-    "node-pre-gyp": "^0.13.0"
+    "node-pre-gyp": "^0.15.0"
   },
   "gypfile": true,
   "devDependencies": {
